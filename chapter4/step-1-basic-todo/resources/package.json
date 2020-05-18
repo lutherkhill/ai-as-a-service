@@ -9,6 +9,6 @@
   "author": "Peter Elger <peter.elger@nearform.com>",
   "license": "ISC",
   "devDependencies": {
-    "serverless-dotenv-plugin": "^2.0.1"
+    "serverless-dotenv-plugin": "^2.4.2"
   }
 }

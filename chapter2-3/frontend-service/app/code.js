@@ -3,8 +3,8 @@
 
 // const BUCKET_ROOT = '<YOUR BUCKET URL>' // of the form https://s3-eu-west-1.amazonaws.com/<YOUR BUCKET NAME>
 // const API_ROOT = 'https://chapter2api.<YOUR CUSTOM DOMAIN>/api/'
-const BUCKET_ROOT = 'https://s3-eu-west-1.amazonaws.com/peterbooktestingfeb2020'
-const API_ROOT = 'https://chapter2api.aiasaservice.info/api/'
+const BUCKET_ROOT = 'https://s3-eu-west-1.amazonaws.com/luther1982'
+const API_ROOT = 'https://chapter2api.birdai.net/api/'
 
 
 function displayableUrl (url) {
